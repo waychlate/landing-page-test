@@ -190,8 +190,7 @@ ul {
     min-height: 75px;
     padding: 40px 80px;
     max-width: 700px;
-    display: flex;
-    flex-flow: row wrap;
+    flex-wrap: wrap;
     align-content: center;
     justify-content: space-between;
     flex: 1;
